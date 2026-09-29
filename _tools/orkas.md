@@ -1,7 +1,7 @@
 ---
 name: Orkas
 slug: orkas
-website: https://orkas.ai/?source=dir_vocino
+website: https://orkas.ai/
 description: Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 categories:
   - agents
